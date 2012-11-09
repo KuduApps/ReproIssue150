@@ -1,0 +1,5 @@
+C:\Users\clayco\Documents\Visual Studio 2008\Projects\ReproIssue150\WebApplication1\bin\WebApplication1.dll
+C:\Users\clayco\Documents\Visual Studio 2008\Projects\ReproIssue150\WebApplication1\bin\WebApplication1.pdb
+C:\Users\clayco\Documents\Visual Studio 2008\Projects\ReproIssue150\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\clayco\Documents\Visual Studio 2008\Projects\ReproIssue150\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\clayco\Documents\Visual Studio 2008\Projects\ReproIssue150\WebApplication1\obj\Debug\WebApplication1.pdb
